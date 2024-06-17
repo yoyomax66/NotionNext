@@ -23,9 +23,10 @@ const CONFIG = {
   HEO_HERO_TITLE_LINK: 'https://yomax66.xyz/learning/note1-1',
 
   // 英雄区显示三个置顶分类
-  HEO_HERO_CATEGORY_1: { title: '基础入门', url: '/tag/基础入门' },
-  HEO_HERO_CATEGORY_2: { title: 'Linux 网络服务', url: '/tag/Linux%20网络服务' },
-  HEO_HERO_CATEGORY_3: { title: 'Linux 集群', url: '/tag/集群' },
+  HEO_HERO_CATEGORY_1: { title: '从零开始', url: '/tag/从零开始' },
+  HEO_HERO_CATEGORY_2: { title: '初入江湖', url: '/tag/Linux%20网络服务' },
+  HEO_HERO_CATEGORY_3: { title: '小有所成', url: '/tag/集群' },
+  HEO_HERO_CATEGORY_4: { title: '如鱼得水', url: '/tag/云计算' },
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
   HEO_HERO_RECOMMEND_POST_TAG: '推荐',
