@@ -18,7 +18,7 @@ const CONFIG = {
   HEO_HERO_TITLE_1: '分享运维',
   HEO_HERO_TITLE_2: '与思维认知',
   HEO_HERO_TITLE_3: 'YOMAX66.XYZ',
-  HEO_HERO_TITLE_4: '新版上线',
+  HEO_HERO_TITLE_4: '从头开始~',
   HEO_HERO_TITLE_5: '技术小白入门',
   HEO_HERO_TITLE_LINK: 'https://yomax66.xyz/learning/note1-1',
 
