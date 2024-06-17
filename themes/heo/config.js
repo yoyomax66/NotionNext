@@ -23,7 +23,7 @@ const CONFIG = {
   HEO_HERO_TITLE_LINK: 'https://yomax66.xyz/learning/note1-1',
 
   // 英雄区显示三个置顶分类
-  HEO_HERO_CATEGORY_1: { title: '基础', url: '/tag/基础' },
+  HEO_HERO_CATEGORY_1: { title: '基础入门', url: '/tag/基础入门' },
   HEO_HERO_CATEGORY_2: { title: 'Linux 网络服务', url: '/tag/Linux%20网络服务' },
   HEO_HERO_CATEGORY_3: { title: 'Linux 集群', url: '/tag/集群' },
 
