@@ -18,15 +18,14 @@ const CONFIG = {
   HEO_HERO_TITLE_1: '分享运维',
   HEO_HERO_TITLE_2: '与思维认知',
   HEO_HERO_TITLE_3: 'YOMAX66.XYZ',
-  HEO_HERO_TITLE_4: '从头开始~',
-  HEO_HERO_TITLE_5: '技术小白入门',
-  HEO_HERO_TITLE_LINK: 'https://yomax66.xyz/learning/note1-1',
+  HEO_HERO_TITLE_4: '从零开始的',
+  HEO_HERO_TITLE_5: '小白修炼之路~',
+  HEO_HERO_TITLE_LINK: 'https://www.yomax66.xyz/tag/从零开始',
 
   // 英雄区显示三个置顶分类
-  HEO_HERO_CATEGORY_1: { title: '从零开始', url: '/tag/从零开始' },
-  HEO_HERO_CATEGORY_2: { title: '初入江湖', url: '/tag/Linux%20网络服务' },
-  HEO_HERO_CATEGORY_3: { title: '小有所成', url: '/tag/集群' },
-  HEO_HERO_CATEGORY_4: { title: '如鱼得水', url: '/tag/云计算' },
+  HEO_HERO_CATEGORY_1: { title: '初入江湖', url: '/tag/Linux%20网络服务' },
+  HEO_HERO_CATEGORY_2: { title: '小有所成', url: '/tag/集群' },
+  HEO_HERO_CATEGORY_3: { title: '如鱼得水', url: '/tag/云计算' },
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
   HEO_HERO_RECOMMEND_POST_TAG: '推荐',
@@ -37,7 +36,7 @@ const CONFIG = {
   HEO_INFOCARD_GREETINGS: [
     '你好！我是',
     '🔍 分享与热心帮助',
-    '🤝 专修交互与设计',
+    '🤝 专修金融与技术',
     '🏃 脚踏实地行动派',
     '🏠 智能家居小能手',
     '🤖️ 数码科技爱好者',
