@@ -68,7 +68,7 @@ const CONFIG = {
       color_1: '#f4f2ed',
       title_2: 'Redis',
       img_2: '/images/heo/SkillIconsRedisDark.webp',
-      color_2: '#d82c20'
+      color_2: '#242938'
     },
     {
       title_1: 'Python',
