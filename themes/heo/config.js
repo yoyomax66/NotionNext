@@ -49,10 +49,10 @@ const CONFIG = {
     {
       title_1: 'Linux',
       img_1: '/images/heo/SkillIconsLinuxLight.webp',
-      color_1: '#059669',
+      color_1: '#f4f2ed',
       title_2: 'Bash',
       img_2: '/images/heo/SkillIconsBashDark.webp',
-      color_2: '#059669'
+      color_2: '#242938'
     },
     {
       title_1: 'Docker',
@@ -60,15 +60,15 @@ const CONFIG = {
       color_1: '#57b6e6',
       title_2: 'Kubernetes',
       img_2: '/images/heo/SkillIconsKubernetes.webp',
-      color_2: '#059669'
+      color_2: '#326ce5'
     },
     {
       title_1: 'Mysql',
       img_1: '/images/heo/SkillIconsMysqlLight.webp',
-      color_1: '#059669',
+      color_1: '#f4f2ed',
       title_2: 'Redis',
       img_2: '/images/heo/SkillIconsRedisDark.webp',
-      color_2: '#059669'
+      color_2: '#d82c20'
     },
     {
       title_1: 'Python',
@@ -76,15 +76,15 @@ const CONFIG = {
       color_1: '#ffffff',
       title_2: 'Openstack',
       img_2: '/images/heo/SkillIconsOpenstackDark.webp',
-      color_2: '#059669'
+      color_2: '#242938'
     },
     {
       title_1: 'Prometheus',
       img_1: '/images/heo/SkillIconsPrometheus.webp',
-      color_1: '#ea580c',
+      color_1: '#e6522c',
       title_2: 'Grafana',
       img_2: '/images/heo/SkillIconsGrafanaDark.webp',
-      color_2: '#059669'
+      color_2: '#242938'
     },
     {
       title_1: 'JS',
@@ -98,9 +98,9 @@ const CONFIG = {
       title_1: 'Git',
       img_1: '/images/heo/2023ffa5707c4e25b6beb3e6a3d286ede4c6071102.webp',
       color_1: '#df5b40',
-      title_2: 'Prometheus',
-      img_2: '/images/heo/SkillIconsPrometheus.webp',
-      color_2: '#ea580c'
+      title_2: 'aws',
+      img_2: '/images/heo/SkillIconsAwsLight.webp',
+      color_2: '#f4f2ed'
     }
   ],
 
