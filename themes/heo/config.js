@@ -98,7 +98,7 @@ const CONFIG = {
       title_1: 'Git',
       img_1: '/images/heo/2023ffa5707c4e25b6beb3e6a3d286ede4c6071102.webp',
       color_1: '#df5b40',
-      title_2: 'aws',
+      title_2: 'AWS',
       img_2: '/images/heo/SkillIconsAwsLight.webp',
       color_2: '#f4f2ed'
     }
